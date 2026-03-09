@@ -1,6 +1,9 @@
 🚗 Priority Wash – Mobile Car Detailing Website
 📌 Overview
 
+<img width="1434" height="446" alt="image" src="https://github.com/user-attachments/assets/2e09c5e1-eab0-4f8a-a6da-08eb45d579e2" />
+
+
 Priority Wash is a full-stack mobile car detailing service website that allows customers to easily book car detailing appointments and submit service inquiries online.
 
 The platform provides a clean, responsive interface for customers while integrating a Node.js backend that processes booking requests and sends notification emails automatically.
@@ -25,6 +28,7 @@ This project was built to demonstrate full-stack web development by connecting a
 ------------------------------------------------------------------------------------------------------
 
 🛠 Tech Stack
+
 Frontend-----
 
 HTML
