@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Booking Successful - Priority Wash</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+        body {
+            background-color: #f4fafd;
+        }
+
+        .success-wrapper {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            margin-top: 4rem; /* pulls everything upward */
+        }
+
+        .success-card {
+            background: white;
+            width: 55%;
+            padding: 2.5rem;
+            border-radius: 20px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .tag {
+            background: #d8effa;
+            padding: 6px 12px;
+            border-radius: 8px;
+            color: #3b8bbf;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: .5px;
+        }
+
+        .success-title {
+            font-size: 32px;
+            font-weight: 700;
+            margin: 15px 0;
+        }
+
+        .highlight {
+            color: #7cc6e8;
+        }
+
+        .success-text {
+            font-size: 16px;
+            line-height: 26px;
+            color: #333;
+            margin-bottom: 1.5rem;
+        }
+
+        .btn-row {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .btn {
+            padding: 0.8rem 1.6rem;
+            border-radius: 40px;
+            border: 1px solid black;
+            background: white;
+            cursor: pointer;
+            transition: 0.3s;
+            font-size: 15px;
+        }
+
+        .btn:hover {
+            background: lightblue;
+            color: white;
+            border: none;
+        }
+
+        .car-img {
+            width: 430px;
+            margin-top: 2rem;
+        }
+
+        .footer-space {
+            height: 3rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="index.html#services">Services</a></li>
+        <li><a href="index.html#about">About</a></li>
+        <li><a href="index.html#contact">Contact</a></li>
+    </ul>
+
+    <!-- SUCCESS SECTION -->
+    <div class="success-wrapper">
+        <div class="success-card">
+            <div class="tag">BOOKING RECEIVED</div>
+
+            <h1 class="success-title">
+                Thank you for trusting <span class="highlight">Priority Wash.</span>
+            </h1>
+
+            <p class="success-text">
+                We've received your booking request and our team is already reviewing your details.
+                Expect a confirmation with your exact time, pricing, and any follow-up questions
+                within the next few hours.
+            </p>
+
+            <p class="success-text">
+                If anything changes, reply to the confirmation email or contact us directly at
+                <strong>bizaahil@gmail.com</strong> or <strong>(703) 622-9534</strong>.
+            </p>
+
+            <div class="btn-row">
+                <a href="index.html"><button class="btn">Back to Home</button></a>
+                <a href="index.html#services"><button class="btn">View Services Again</button></a>
+            </div>
+
+            <img src="Assets/suv.png" class="car-img" />
+        </div>
+    </div>
+
+    <div class="footer-space"></div>
+</body>
+</html>
