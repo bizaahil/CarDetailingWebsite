@@ -1,9 +1,6 @@
 🚗 Priority Wash – Mobile Car Detailing Website
 📌 Overview
 
-<img width="1434" height="446" alt="image" src="https://github.com/user-attachments/assets/2e09c5e1-eab0-4f8a-a6da-08eb45d579e2" />
-
-
 Priority Wash is a full-stack mobile car detailing service website that allows customers to easily book car detailing appointments and submit service inquiries online.
 
 The platform provides a clean, responsive interface for customers while integrating a Node.js backend that processes booking requests and sends notification emails automatically.
@@ -23,6 +20,28 @@ This project was built to demonstrate full-stack web development by connecting a
 📱 Responsive design for desktop and mobile devices
 
 ⚡ Backend server for processing booking submissions
+
+------------------------------------------------------------------------------------------------------
+
+ 📸 Website Preview
+
+Home Page
+<img width="1516" height="911" alt="image" src="https://github.com/user-attachments/assets/d679f72d-b85e-4ae7-96a3-af6b6afa364b" />
+
+Services Page
+<img width="1798" height="923" alt="image" src="https://github.com/user-attachments/assets/15e78d8a-9493-4c6d-b819-1122a2e3d49e" />
+
+Contact Us Page
+<img width="1795" height="389" alt="image" src="https://github.com/user-attachments/assets/1e2a0978-5b33-4892-b521-e80886f3f95d" />
+
+Booking Page
+<img width="1466" height="717" alt="image" src="https://github.com/user-attachments/assets/bdbfdfa3-ba86-4f90-98fb-3420c9a57444" />
+
+Booking confirmation
+<img width="1091" height="434" alt="image" src="https://github.com/user-attachments/assets/4ba11aec-f4ac-4d91-9fd6-e94a873cff26" />
+
+Success Email 
+<img width="1726" height="838" alt="image" src="https://github.com/user-attachments/assets/f2589faa-bd13-4c79-a1f4-9d9eb6556343" />
 
 
 ------------------------------------------------------------------------------------------------------
