@@ -35,7 +35,7 @@ Contact Us Page
 <img width="1795" height="389" alt="image" src="https://github.com/user-attachments/assets/1e2a0978-5b33-4892-b521-e80886f3f95d" />
 
 Booking Page
-<img width="1466" height="717" alt="image" src="https://github.com/user-attachments/assets/bdbfdfa3-ba86-4f90-98fb-3420c9a57444" />
+<img width="1462" height="715" alt="image" src="https://github.com/user-attachments/assets/1e21bcf9-c37d-4cce-a159-92af5cf64787" />
 
 Booking confirmation
 <img width="1091" height="434" alt="image" src="https://github.com/user-attachments/assets/4ba11aec-f4ac-4d91-9fd6-e94a873cff26" />
