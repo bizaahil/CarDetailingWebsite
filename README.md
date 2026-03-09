@@ -76,17 +76,17 @@ Node Package Manager (npm)
 📁 Project Structure
 CarDetailingWebsite
 │
-├── Assets/                # Images and frontend assets
+├── Assets/ # Images and frontend assets
 │
 ├── backend/
-│   ├── server.js          # Express backend server
-│   ├── package.json       # Node dependencies
-│   └── package-lock.json
+│ ├── server.js # Express backend server
+│ ├── package.json # Node dependencies
+│ └── package-lock.json
 │
-├── index.html             # Landing page
-├── booknow.html           # Booking form page
-├── success.html           # Booking confirmation page
-├── styles.css             # Website styling
+├── index.html # Landing page
+├── booknow.html # Booking form page
+├── success.html # Booking confirmation page
+├── styles.css # Website styling
 │
 └── README.md
 
