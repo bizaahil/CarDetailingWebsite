@@ -7,6 +7,8 @@ The platform provides a clean, responsive interface for customers while integrat
 
 This project was built to demonstrate full-stack web development by connecting a frontend booking interface with a backend server that handles form submissions and email notifications.
 
+------------------------------------------------------------------------------------------------------
+
 ✨ Features
 
 🚗 Mobile-friendly car detailing service website
@@ -19,8 +21,11 @@ This project was built to demonstrate full-stack web development by connecting a
 
 ⚡ Backend server for processing booking submissions
 
+
+------------------------------------------------------------------------------------------------------
+
 🛠 Tech Stack
-Frontend
+Frontend-----
 
 HTML
 
@@ -28,7 +33,7 @@ CSS
 
 JavaScript
 
-Backend
+Backend------
 
 Node.js
 
@@ -41,6 +46,9 @@ Resend API (email notifications)
 dotenv (environment variables)
 
 Node Package Manager (npm)
+
+------------------------------------------------------------------------------------------------------
+
 
 📁 Project Structure
 CarDetailingWebsite
@@ -58,6 +66,10 @@ CarDetailingWebsite
 ├── styles.css             # Website styling
 │
 └── README.md
+
+
+------------------------------------------------------------------------------------------------------
+
 ⚙️ How It Works
 
 1️⃣ A user visits the website landing page.
@@ -67,25 +79,9 @@ CarDetailingWebsite
 5️⃣ The backend processes the request and sends a booking notification email using the Resend API.
 6️⃣ The user is redirected to a success confirmation page.
 
-🚀 Running the Project Locally
-1. Clone the repository
-git clone https://github.com/bizaahil/CarDetailingWebsite.git
-2. Navigate to the backend folder
-cd CarDetailingWebsite/backend
-3. Install dependencies
-npm install
-4. Create a .env file
 
-Create a file called .env inside the backend folder and add:
+------------------------------------------------------------------------------------------------------
 
-RESEND_API_KEY=your_api_key
-BOOKING_EMAIL_TO=your_email
-PORT=3000
-5. Start the server
-node server.js
-6. Open the website
-
-Open index.html in your browser or run the server locally.
 
 🔮 Future Improvements
 
@@ -98,6 +94,9 @@ Open index.html in your browser or run the server locally.
 📲 SMS notifications for booking confirmations
 
 ☁️ Cloud deployment (AWS / Vercel / Render)
+
+**------------------------------------------------------------------------------------------------------
+
 
 👨‍💻 Author
 
