@@ -95,12 +95,12 @@ CarDetailingWebsite
 
 ⚙️ How It Works
 
-1️⃣ A user visits the website landing page./n
-2️⃣ The customer navigates to the Book Now page./n
-3️⃣ The user submits booking details through a form./n
-4️⃣ The frontend sends the request to the Node.js Express backend./n
-5️⃣ The backend processes the request and sends a booking notification email using the Resend API./n
-6️⃣ The user is redirected to a success confirmation page./n
+1️⃣ A user visits the website landing page.
+2️⃣ The customer navigates to the Book Now page.
+3️⃣ The user submits booking details through a form.
+4️⃣ The frontend sends the request to the Node.js Express backend.
+5️⃣ The backend processes the request and sends a booking notification email using the Resend API.
+6️⃣ The user is redirected to a success confirmation page.
 
 
 ------------------------------------------------------------------------------------------------------
